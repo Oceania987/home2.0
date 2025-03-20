@@ -1,0 +1,13 @@
+<html>
+    <style>#heading1{ 
+        text-align: center; }</style>
+<body>
+    <h1 id="heading1">contents</h1>
+    <ul><li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</body>
+</html>
